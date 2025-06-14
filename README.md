@@ -26,7 +26,7 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Nithininturi/portfolio.git
+git clone https://github.com/Nithininturi/Venkata-Nithin-Inturi-Portfoilo.git
 ```
 
 2. Navigate to the project directory:

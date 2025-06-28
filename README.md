@@ -83,5 +83,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Venkata Nithin inturi
 - Email: inturi.nithin2004@gmail.com
-- GitHub: [neerajbarakam](https://github.com/Nithininturi)
-- LinkedIn: [Barakam Neeraj](https://www.linkedin.com/in/venkata-nithin-inturi-771794255/) 
+- GitHub: [Nithininturi](https://github.com/Nithininturi)
+- LinkedIn: [Venkata Nithin Inturi](https://www.linkedin.com/in/venkata-nithin-inturi-771794255/) 
